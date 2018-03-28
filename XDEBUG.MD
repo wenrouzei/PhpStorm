@@ -9,8 +9,8 @@
 [xdebug]
 zend_extension="G:\xampp\php\ext\php_xdebug.dll"
 xdebug.profiler_append = 0 
-xdebug.profiler_enable = 1 
-xdebug.profiler_enable_trigger = 0 
+xdebug.profiler_enable = 0 
+xdebug.profiler_enable_trigger = 1 
 xdebug.profiler_output_dir = "G:\xampp\tmp"
 xdebug.profiler_output_name = "cachegrind.out.%t-%s"
 xdebug.remote_enable = On 
